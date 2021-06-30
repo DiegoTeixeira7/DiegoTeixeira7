@@ -82,13 +82,13 @@ busca de novos conhecimentos que possam agregar em minha jornada profissional.
 📆 2017 - atualmente\
 📍 **Universidade Federal de Viçosa** - Viçosa, MG
 
-## Experiência de trabalho
+## Experiência de trabalho:
   
 <img align="right" alt="Vue.js" src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
-<img align="right" alt="NuxtJS" src="https://img.shields.io/badge/NuxtJS%20-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white"/>
+<img align="right" alt="Nuxt.js" src="https://img.shields.io/badge/NuxtJS%20-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white"/>
 <img align="right" alt="Tailwind" src="https://img.shields.io/badge/tailwindcss%20-%23563D7C.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 <img align="right" alt="Vuetify" src="https://img.shields.io/badge/vuetify%20-%23563D7C.svg?&style=for-the-badge&logo=vuetify&logoColor=white"/>
-<img align="right" alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+<img align="right" alt="Node.js" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 <img align="right" alt="Strapi" src="https://img.shields.io/badge/strapi%20-%232E7EEA.svg?&style=for-the-badge&logo=strapi&logoColor=white" />
 
 - 👨‍💻 **Desenvolvedor Full Stack**\
