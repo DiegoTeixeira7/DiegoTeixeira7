@@ -73,7 +73,7 @@ busca de novos conhecimentos que possam agregar em minha jornada profissional.
 </p>
 
 <details>
-  <summary>📃 Resume</summary>
+  <summary>📃 Resumo</summary>
 
 
 ## Educação:
