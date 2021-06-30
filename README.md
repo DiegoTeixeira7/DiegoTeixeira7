@@ -53,6 +53,9 @@ busca de novos conhecimentos que possam agregar em minha jornada profissional.
 </p>
 
 **:bar_chart: Estatísticas do meu perfil**
+<p align='center'>
+	<img alt="DiegoTeixeira7" src="https://komarev.com/ghpvc/?username=DiegoTeixeira7&label=Profile%20views&color=0e75b6&style=flat" /> 
+</p>
 <p align="center">
 	<a href="https://github-readme-stats.vercel.app/api?username=DiegoTeixeira7&show_icons=true">
 		<img 
@@ -61,6 +64,8 @@ busca de novos conhecimentos que possam agregar em minha jornada profissional.
          src="https://github-readme-stats.vercel.app/api?username=DiegoTeixeira7&show_icons=true&count_private=true&theme=dark"
          height="200px"
     />
+</p>
+<p align="center">
 	</a>
 	<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoTeixeira7&layout=compact&hide=php,scss&langs_count=8">
 		<img
