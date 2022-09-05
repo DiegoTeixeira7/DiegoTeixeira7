@@ -3,7 +3,7 @@ Sou um desenvolvedor júnior que está sempre à procura de evolução. Adoro te
 busca de novos conhecimentos que possam agregar em minha jornada profissional.
 
 - :computer: Atualmente estou trabalhando com deselvolvimento web, tanto no front-end quanto no back-end.
-- :page_facing_up: Atualmente estou cursando Ciência da Computação na Universidade Federal de Viçosa - UFV.
+- :page_facing_up: Sou formado em Ciência da Computação pela Universidade Federal de Viçosa - UFV.
 - :iphone: Posteriormente irei estudar tecnologias modernas para desenvolvimento mobile.
 
 <p align='center'>
