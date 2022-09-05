@@ -84,7 +84,7 @@ busca de novos conhecimentos que possam agregar em minha jornada profissional.
 ## Educação:
 
 - 📖 **Bacharel em Ciência da Computação**\
-📆 2017 - atualmente\
+📆 2017 - 2022\
 📍 **Universidade Federal de Viçosa** - Viçosa, MG
 
 ## Experiência de trabalho:
