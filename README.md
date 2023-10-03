@@ -77,7 +77,19 @@ busca de novos conhecimentos que possam agregar em minha jornada profissional.
 <img align="right" alt="Strapi" src="https://img.shields.io/badge/strapi%20-%232E7EEA.svg?&style=for-the-badge&logo=strapi&logoColor=white" />
 
 - 👨‍💻 **Desenvolvedor Full Stack**\
-📆 abril de 2021 - atualmente\
+📆 agosto 2023 - atualmente\
+📍 **[Doois](https://doo.is/)** - REMOTO
+
+- 👨‍💻 **Desenvolvedor Full Stack**\
+📆 março 2023 - agosto 2023\
+📍 **[Cuida.life](https://cuida.life/)** - REMOTO
+
+- 👨‍💻 **Assistente de desenvolvimento de software**\
+📆 novembro de 2022 - fevereiro 2023\
+📍 **[Efí](https://sejaefi.com.br/)** - REMOTO
+
+- 👨‍💻 **Desenvolvedor Full Stack**\
+📆 abril de 2021 - novembro de 2022\
 📍 **[Cuida.life](https://cuida.life/)** - REMOTO
 
 
