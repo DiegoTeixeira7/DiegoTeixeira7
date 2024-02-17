@@ -1,5 +1,5 @@
 ### Olá 👋
-Sou um desenvolvedor júnior que está sempre à procura de evolução. Adoro tecnologia e estou frequentemente em
+Sou um desenvolvedor pleno que está sempre à procura de evolução. Adoro tecnologia e estou frequentemente em
 busca de novos conhecimentos que possam agregar em minha jornada profissional.
 
 - :computer: Atualmente estou trabalhando com deselvolvimento web, tanto no front-end quanto no back-end.
